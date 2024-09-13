@@ -117,6 +117,10 @@ return [
 					'required' => false,
 					'type' => 'string',
 				],
+                'nationality' => [
+                    'required' => false,
+                    'type' => 'string',
+                ]
 			],
 		],
 		'states' => [
